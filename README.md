@@ -28,3 +28,4 @@ pip install opencv-python torch
 To make the project work correctly on CPU-only systems, a small change is needed in the facial_emotion_recognition.py
 
 ## 📁 File to modify:
+File Path looks like `C:\Users\user\AppData\Local\Programs\Python\Python39\Lib\site-packages\facial_emotion_recognition\facial_emotion_recognition.py`
