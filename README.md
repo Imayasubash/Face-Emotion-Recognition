@@ -17,6 +17,7 @@ This project uses a webcam to detect human faces and recognize their emotions in
 
 # 📦 Installation
 
+Run the bilow command in your terminal
 ```bash
-pip install facial-emotion-recognition
+>> pip install facial-emotion-recognition
 
