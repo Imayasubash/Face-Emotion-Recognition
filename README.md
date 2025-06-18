@@ -23,8 +23,9 @@ pip install facial-emotion-recognition
 pip install opencv-python torch
 ```
 
-⚠️ **Note:** The **Custom Modification** mentioned below is only possible **after installing** the `facial_emotion_recognition` library.  
-Please install it first using `pip install facial-emotion-recognition`, then apply the changes in the installed package files.
+⚠️ **Note:** 
+> The **Custom Modification** mentioned below is only possible **after installing** the `facial_emotion_recognition` library.  
+> Please install it first using `pip install facial-emotion-recognition`, then apply the changes in the installed package files.
 
 
 # 🛠️ Custom Modification
