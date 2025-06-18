@@ -60,4 +60,4 @@ model_dict = torch.load(os.path.join(os.path.dirname(__file__), 'model', 'model.
 ```python
 model_dict = torch.load(os.path.join(os.path.dirname(__file__), 'model', 'model.pkl'), map_location=torch.device('cpu'))
 ```
-
+## 🧾
