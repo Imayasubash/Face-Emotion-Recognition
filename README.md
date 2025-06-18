@@ -21,6 +21,7 @@ Run the following command in your terminal
 ```bash
 >> pip install facial-emotion-recognition
 >> pip install opencv-python torch
+```bash
 
 
-## 🛠️ Custom Modification
+# 🛠️ Custom Modification
