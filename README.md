@@ -46,7 +46,7 @@ If you could't find it :
 - Now get into the `facial_emotion_recognition` file
 - now you can see the `facial_emotion_recognition.py` file
 
-Open the facial_emotion_recognition.py file
+Open the **`facial_emotion_recognition.py`** file
 
 ## 🔄 Replace this line:
 
