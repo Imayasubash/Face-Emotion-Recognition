@@ -21,7 +21,10 @@ Run the following command in your terminal
 ```bash
 >> pip install facial-emotion-recognition
 >> pip install opencv-python torch
-```bash
-
+```
 
 # 🛠️ Custom Modification
+
+To make the project work correctly on CPU-only systems, a small change is needed in the facial_emotion_recognition.py
+
+## 📁 File to modify:
