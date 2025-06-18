@@ -35,16 +35,16 @@ To make the project work correctly on CPU-only systems, a small change is needed
 File Path looks like `C:\Users\user\AppData\Local\Programs\Python\Python39\Lib\site-packages\facial_emotion_recognition\facial_emotion_recognition.py`
 
 If you could't find it :
-- press windows, secsh for IDLE
+- press windows key, search for IDLE
 - right click on IDLE
 - select `open file location`
 - you can find the IDLE
-- Now  agine right click on the IDLE
+- Now again right click on the IDLE
 - select `open file location`
-- Now find the Lib file and enter into the file
-- find the site-packages file and enter into it
-- Now get into the facial_emotion_recognition file
-- now you can see the facial_emotion_recognition.py file
+- Now find the `Lib` file and enter into the file
+- find the `site-packages` file and enter into it
+- Now get into the `facial_emotion_recognition` file
+- now you can see the `facial_emotion_recognition.py` file
 
 Open the facial_emotion_recognition.py file
 
