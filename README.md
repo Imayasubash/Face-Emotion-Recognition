@@ -63,3 +63,4 @@ model_dict = torch.load(os.path.join(os.path.dirname(__file__), 'model', 'model.
 # 🏁 Steup Completed
 
 🎉 With this setup, you now have a working **Real-Time Face Emotion Recognition system** running on your webcam — no GPU needed!
+
